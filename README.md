@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @logicjokerz
-- 👀 I’m interested in ... Pi 
+- 👀 I’m interested in ... Rasberry Pi 
 - 📫 How to reach me ... @realcumming (Twitter)
+- 
