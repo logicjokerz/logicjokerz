@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @logicjokerz
-- 👀 I’m interested in ... Raspberry Pi 
+- 👀 I’m interested in ... Raspberry Pi , Termux
 - 📫 How to reach me ... @realcumming (Twitter)
