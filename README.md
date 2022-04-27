@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @logicjokerz
-- 👀 I’m interested in ... Raspberry Pi , Termux
-- ❤️ I'm love Earning Money From Many Device  
+- 👀 I’m interested in ... Raspberry Pi , Termux 
+- ❤️ I'm love Earning Money From Many Device   
 - 📫 How to reach me ... @logicjokerz (Twitter)
+- 🤖 Make Money From Bot or Script (Do Your Own Risk)
